@@ -25,6 +25,8 @@ def Calculator():
         division = num1 / num2
         print(division)
 
+
+        
 Calculator()
 
 def velocity():
