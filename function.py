@@ -24,8 +24,6 @@ def Calculator():
     elif operator == "/":
         division = num1 / num2
         print(division)
-
-
         
 Calculator()
 
