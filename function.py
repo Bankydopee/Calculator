@@ -25,12 +25,12 @@ def Calculator():
         division = num1 / num2
         print(division)
 
-#Calculator()
+Calculator()
 
 def velocity():
     distance = int(input("Enter distance: "))
     time = int(input("Enter time: "))
     velocity = distance / time
-    print(velocity)
+    print(velocity, "is the velocity")
 
 velocity()
