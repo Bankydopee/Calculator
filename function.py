@@ -26,7 +26,7 @@ def Calculator():
         print(division)
         
 Calculator()
-
+# To find velocity...
 def velocity():
     distance = int(input("Enter distance: "))
     time = int(input("Enter time: "))
