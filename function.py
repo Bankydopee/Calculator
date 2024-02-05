@@ -4,8 +4,11 @@ def add():
     sum = num1 + num2
     print(sum, "is gretater than five")
 
-#add()
+add()
+
 # Calculator Operators
+
+
 
 def Calculator():
     num1 = int(input("Enter First Number: "))
@@ -26,6 +29,8 @@ def Calculator():
         print(division)
         
 Calculator()
+
+
 # To find velocity...
 def velocity():
     distance = int(input("Enter distance: "))
